@@ -1,7 +1,5 @@
 # Multiple Linear Regression Analysis 
-## HaborWaterQuality
-
-This project uses Harbor Water data to find and study the possible factors, which may influence dissolved oxygen in the bottom of Harbor Water. <br /> 
+## HaborWaterQuality:<br /> To find and study the possible factors that influence dissolved oxygen in the bottom of Harbor Water and to build multiple linear regression model for the research. <br /> 
 
 •	Understood the analysis objective and identified the critical problem <br /> 
 •	Collected initial data from creditable data source and explored data properties <br /> 
